@@ -2,6 +2,6 @@ __pycache__/data_prep.cpython-310.pyc
 custom_arq_dataset.npy
 .vscode
 binvox
-*.stl
+mesa*.stl
 *.binvox
 stl3d
